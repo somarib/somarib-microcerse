@@ -16,11 +16,65 @@ margin:auto;}
   }
 
   .header{
+    display: flex;
     border: solid 2px blue;
-    height: 20vh;
+    height: 15vh;
   }
 
-  .header{
+  .cont{
+    display: flex;
+    border: solid 2px red;
+    height: 80vh;
+  }
+  .footer{
     border: solid 2px blue;
-    height: 20vh;
+    height: 15vh;
+  }
+
+  .video-side{
+    
+    border: solid 2px yellow;
+    margin: 4px;
+    height: 65vh;
+    width: 70%;
+  }
+  .menu-side{
+   
+    border: solid 2px yellow;
+    margin: 2px;
+    height: 80vh;
+    width: 30%;
+  }
+  .utube{
+    border: solid 2px yellow;
+   margin-left: 10px;
+   padding-left: 0px;
+    width:30%
+  }
+  .search{
+    border: solid 2px yellow;
+    width:50%;
+    margin-left:60px ;
+  }
+
+  h1{
+    margin-left: 50px;
+    border: solid 2px blue;
+  }
+  .txtinput{
+    width: 500px;
+    height: 40px;
+    border-radius: 8px;
+  }
+  .btninput{
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+  }
+  .sidev{
+    width: 300px;
+    height: 100px;
+    border: solid 2px blue;
+    margin: 5px;
+    border-radius: 20px;
   }
