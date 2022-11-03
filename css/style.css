@@ -14,7 +14,7 @@ body {
   height: 100vh;
 }
 
-.header {
+.header-section {
   display: flex;
   height: 15vh;
 }
